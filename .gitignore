@@ -4,6 +4,6 @@ config/.firebase-key
 data
 .firebasekey-pre.json
 .firebasekey.json
-.env
 copyfiles
 logs
+config.bat
